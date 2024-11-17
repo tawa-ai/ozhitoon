@@ -1,0 +1,6 @@
+[book]
+authors = ["Pickles"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Ozhitoon"
