@@ -1,0 +1,6 @@
+[book]
+authors = ["isaak"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Ozhitoon"
